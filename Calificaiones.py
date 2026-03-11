@@ -78,7 +78,7 @@ while True:
     if desarrollo < 50:
         print("Observación: Debe reforzar el frente técnico principal")        
 
-    coders = +1
+    coders += 1
     suma_promedios += promedio
 
     if promedio > mejor_promedio:
@@ -91,7 +91,7 @@ while True:
 
     #----RESUMEN----
 
-    mostrar_resumen(modulo, coders, suma_promedios, reprobados, regulares, excelentes, mejor_coder, mejor_promedio)
+mostrar_resumen(modulo, coders, suma_promedios, reprobados, regulares, excelentes, mejor_coder, mejor_promedio)
 
 
            
