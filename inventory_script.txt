@@ -1,0 +1,17 @@
+#Python Inventory Program Explanation Script
+
+Hello, today I am going to explain my Python program.
+
+This program is my simple inventory program. It is written in Python and it is used to calculate the total cost of a product.
+
+In this program there are some variables. The variable "nombre" is a string and it stores the name of the product. The variable "precio" is a float and it stores the price of the product. The variable "cantidad" is an integer and it stores the quantity.
+
+First, the program asks the user to enter the product name. Then it asks for the price of the product. After that, it asks for the quantity.
+
+Right now the program is reading the information from the user. Then it is calculating the total cost by multiplying the price by the quantity.
+
+Finally, the program prints the result on the screen. It shows the product name, the price, the quantity and the total cost.
+
+This program is useful because it helps calculate the total price of a product in a simple way.
+
+Thank you for listening.
