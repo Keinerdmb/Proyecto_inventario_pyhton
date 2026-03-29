@@ -45,7 +45,7 @@ git --version
 Abre la terminal o consola y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/Keinerdmb/Ruta-basica.git
+https://github.com/Keinerdmb/Proyecto_inventario_pyhton.git
 ```
 
 Esto descargará el proyecto en tu computadora.
