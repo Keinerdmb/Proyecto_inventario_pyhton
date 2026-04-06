@@ -144,7 +144,7 @@ git --version
 ### 2. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Keinerdmb/Ruta-basica.git
+git clone https://github.com/Keinerdmb/Proyecto_inventario_pyhton.git
 ```
 
 ---
@@ -152,7 +152,7 @@ git clone https://github.com/Keinerdmb/Ruta-basica.git
 ### 3. Acceder al proyecto
 
 ```bash
-cd Ruta-basica
+cd "Nombre de la carpeta donde se guardo"
 ```
 
 ---
@@ -176,16 +176,7 @@ El sistema se encuentra funcional y cumple con:
 
 ---
 
-## Posibles mejoras futuras
-
-* Soporte para archivos JSON
-* Interfaz gráfica
-* Validaciones más avanzadas
-* Búsquedas parciales
-* Organización en clases (POO)
-
----
-
 ## Autor
 
-Proyecto desarrollado como parte del proceso de aprendizaje en programación.
+Keiner Martinez.
+El programa actualmente funciona correctamente y calcula el costo total de los productos.
